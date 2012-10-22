@@ -1,3 +1,4 @@
+LICENSE*
 var/locks
 var/cache
 var/session
